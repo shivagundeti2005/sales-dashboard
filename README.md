@@ -122,6 +122,7 @@ Sales-Dashboard/
 
 **Shivakumar Gundeti**
 GitHub: https://github.com/shivagundeti2005
+linkdin: https://www.linkedin.com/in/shivakumar-gundeti-164428313/
 
 6) screenshort / Demos
   example [dashboard preview](https://github.com/shivagundeti2005/sales-dashboard/blob/main/sales%20dashboard%20screenshort.png)
